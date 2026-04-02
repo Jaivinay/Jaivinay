@@ -77,12 +77,12 @@
 
 # 📊 GitHub Stats
 
-![Jaivinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaivinay&show_icons=true&theme=dark)
+![Jaivinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaivinay&show_icons=true&theme=dark)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Jaivinay&theme=dark)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=jaivinay&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaivinay&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaivinay&layout=compact&theme=dark)
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Jaivinay&icon=0&color=0)
+![Profile Views](https://visitcount.itsvg.in/api?id=jaivinay&icon=0&color=0)
