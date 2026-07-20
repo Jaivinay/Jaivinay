@@ -39,7 +39,7 @@ Multi-store, multi-SKU sales forecasting on Walmart's M5 dataset using a Tempora
 
 ### [Deepfake Image Detection](https://github.com/Jaivinay/deepfake-image-detection)
 Real vs. fake image classification across ~190k images, comparing a CNN against a transformer.
-*The interesting part:* Xception beat ViT here ([X]% vs [Y]% test accuracy) — transformers need more data than this to earn their keep, which is a more useful finding than picking the winner.
+The interesting part: Xception beat ViT here (94.09% vs 83.93% test accuracy) — transformers need more data than this to earn their keep, which is a more useful finding than picking the winner.
 `TensorFlow` `PyTorch` `Xception` `Vision Transformer`
 
 ---
