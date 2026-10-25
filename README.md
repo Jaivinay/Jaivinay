@@ -23,82 +23,39 @@ My technical skill set spans **cloud data engineering**, **analytics &amp; BI**,
 
 **1. Programming Languages &amp; Databases**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge" alt="SQL">
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark">
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake">
-<img src="https://img.shields.io/badge/Teradata-F37440?style=for-the-badge" alt="Teradata">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge" alt="SQL"> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"> <img src="https://img.shields.io/badge/Teradata-F37440?style=for-the-badge" alt="Teradata">
 
 **2. Data Engineering &amp; Analytics Engineering**
 
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark">
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka">
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt">
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
-<img src="https://img.shields.io/badge/Informatica-FF4713?style=for-the-badge" alt="Informatica">
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"> <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"> <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"> <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"> <img src="https://img.shields.io/badge/Informatica-FF4713?style=for-the-badge" alt="Informatica">
 
 ETL/ELT pipelines (incl. AWS Glue, see AWS section) · Dimensional/star-schema modeling · Data warehousing &amp; data lakes · Automated data quality validation · Batch &amp; streaming processing · Orchestration · CI testing
 
 **3. Data Analytics &amp; Business Intelligence**
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
-<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge" alt="DAX">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"> <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge" alt="DAX"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 
 SQL-based reporting · Interactive dashboards · KPI reporting · Cross-source data modeling · Trend &amp; efficiency analysis
 
 **4. Artificial Intelligence &amp; Generative AI**
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-<img src="https://img.shields.io/badge/Claude_(Anthropic)-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude by Anthropic">
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
-<img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge" alt="FAISS">
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"> <img src="https://img.shields.io/badge/Claude_(Anthropic)-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude by Anthropic"> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"> <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge" alt="FAISS"> <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone">
 
 Retrieval-Augmented Generation (RAG) · Vector search &amp; embeddings · Prompt engineering · Semantic search · LLM application development
 
 **5. Data Science &amp; Machine Learning**
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-<img src="https://img.shields.io/badge/XGBoost-0096D6?style=for-the-badge" alt="XGBoost">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"> <img src="https://img.shields.io/badge/XGBoost-0096D6?style=for-the-badge" alt="XGBoost">
 
 Model comparison &amp; evaluation (accuracy, precision/recall, F1, confusion matrix) · Time-series forecasting (ARIMA, Temporal Fusion Transformer) · Reinforcement learning (PPO) · Deep learning · Computer vision
 
 **6. AWS &amp; Cloud Platforms**
 
-<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3">
-<img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Glue">
-<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda">
-<img src="https://img.shields.io/badge/Step_Functions-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Step Functions">
-<img src="https://img.shields.io/badge/Athena-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Athena">
-<img src="https://img.shields.io/badge/Redshift-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Redshift">
-<img src="https://img.shields.io/badge/SageMaker_%2B_Pipelines-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon SageMaker and SageMaker Pipelines">
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="Amazon EC2">
-<img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CDK">
-<img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CloudFormation">
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure">
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Platform">
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3"> <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Glue"> <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda"> <img src="https://img.shields.io/badge/Step_Functions-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Step Functions"> <img src="https://img.shields.io/badge/Athena-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Athena"> <img src="https://img.shields.io/badge/Redshift-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Redshift"> <img src="https://img.shields.io/badge/SageMaker_%2B_Pipelines-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon SageMaker and SageMaker Pipelines"> <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="Amazon EC2"> <img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CDK"> <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CloudFormation"> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Platform">
 
 **7. DevOps, MLOps &amp; Development Tools**
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
 
 CI/CD pipelines · Automated testing (pytest)
 
@@ -114,10 +71,7 @@ CI/CD pipelines · Automated testing (pytest)
 <strong>Tech:</strong> AWS S3 · AWS Glue · PySpark · Snowflake · pytest · GitHub Actions CI
 </p>
 
-<img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3">
-<img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Glue">
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark">
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake">
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3"> <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Glue"> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake">
 
 ---
 
@@ -129,9 +83,7 @@ CI/CD pipelines · Automated testing (pytest)
 <strong>Tech:</strong> Power BI · DAX · SQL · Snowflake
 </p>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge" alt="DAX">
-<img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge" alt="SQL">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge" alt="DAX"> <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge" alt="SQL">
 
 ---
 
@@ -143,10 +95,7 @@ CI/CD pipelines · Automated testing (pytest)
 <strong>Tech:</strong> Kafka · Spark · Airflow · MinIO · Snowflake · Docker
 </p>
 
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka">
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark">
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"> <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"> <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 
 ---
 
@@ -158,10 +107,7 @@ CI/CD pipelines · Automated testing (pytest)
 <strong>Tech:</strong> LangChain · FAISS · Ollama (Llama 3.2) · Streamlit
 </p>
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-<img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge" alt="FAISS">
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"> <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge" alt="FAISS"> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
 
 ---
 
@@ -173,9 +119,7 @@ CI/CD pipelines · Automated testing (pytest)
 <strong>Tech:</strong> scikit-learn · XGBoost · Pandas · Joblib
 </p>
 
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-<img src="https://img.shields.io/badge/XGBoost-0096D6?style=for-the-badge" alt="XGBoost">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"> <img src="https://img.shields.io/badge/XGBoost-0096D6?style=for-the-badge" alt="XGBoost"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 
 ---
 
@@ -187,8 +131,7 @@ CI/CD pipelines · Automated testing (pytest)
 <strong>Tech:</strong> PyTorch · Temporal Fusion Transformer · PPO / Reinforcement Learning
 </p>
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-<img src="https://img.shields.io/badge/Reinforcement_Learning-0096D6?style=for-the-badge" alt="Reinforcement Learning">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/Reinforcement_Learning-0096D6?style=for-the-badge" alt="Reinforcement Learning">
 
 <br>
 
@@ -204,8 +147,7 @@ CI/CD pipelines · Automated testing (pytest)
 ## GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jaivinay&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Jaivinay's GitHub contribution statistics: commits, pull requests, and stars" height="165">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaivinay&theme=dark&hide_border=true" alt="Jaivinay's GitHub contribution streak: total contributions, current streak, and longest streak" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=Jaivinay&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Jaivinay's GitHub contribution statistics: commits, pull requests, and stars" height="165"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaivinay&theme=dark&hide_border=true" alt="Jaivinay's GitHub contribution streak: total contributions, current streak, and longest streak" height="165">
 </p>
 
 <p align="center">
