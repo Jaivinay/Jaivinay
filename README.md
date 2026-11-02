@@ -13,7 +13,7 @@
 
 Data &amp; AI engineer with an MS in Artificial Intelligence &amp; Business Analytics from the University of South Florida (Aug 2024 – Dec 2025), based in Tampa, FL. I build pipelines and systems that run end-to-end — not notebooks that ran once.
 
-My technical skill set spans **cloud data engineering**, **analytics &amp; BI**, **generative AI / RAG systems**, and **applied machine learning** across the AWS data and ML ecosystem.
+My technical skill set spans **Data Analytics &amp; BI**, **Generative AI / RAG systems**, and **applied machine learning** across the AWS data and ML ecosystem.
 
 **Open to Data Analyst, Data Scientist, Data Engineer, and AI/ML Engineer roles — available immediately.**
 
@@ -27,7 +27,7 @@ My technical skill set spans **cloud data engineering**, **analytics &amp; BI**,
 
 **2. Data Engineering & Analytics Engineering**
 
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark"> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka"> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow"> <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt"> <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"> <img src="https://img.shields.io/badge/Informatica-FF4713?style=flat-square" alt="Informatica">
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark"> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka"> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow"> <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt"> <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"> <img 
 
 **3. Data Analytics & Business Intelligence**
 
@@ -43,7 +43,7 @@ My technical skill set spans **cloud data engineering**, **analytics &amp; BI**,
 
 **6. AWS & Cloud Platforms**
 
-<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3"> <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Glue"> <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda"> <img src="https://img.shields.io/badge/Step_Functions-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Step Functions"> <img src="https://img.shields.io/badge/Athena-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Athena"> <img src="https://img.shields.io/badge/Redshift-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Redshift"> <img src="https://img.shields.io/badge/SageMaker_%2B_Pipelines-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon SageMaker and SageMaker Pipelines"> <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="Amazon EC2"> <img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS CDK"> <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS CloudFormation"> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Platform">
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3"> <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Glue"> <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda"> <img src="https://img.shields.io/badge/SageMaker_%2B_Pipelines-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon SageMaker and SageMaker Pipelines"> <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="Amazon EC2"> <img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS CDK"> <img  src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Platform">
 
 **7. DevOps, MLOps & Development Tools**
 
